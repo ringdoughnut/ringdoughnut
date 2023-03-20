@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 | Header 1 | Header 2 |
 | -------- | -------- |
 |  |  |
-|  |  |
+| . | . |
