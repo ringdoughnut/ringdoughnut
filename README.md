@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 | Header 1 | Header 2 |
 | -------- | -------- |
 | 'cont1' | empty |
-| 'cont2' | empty |
